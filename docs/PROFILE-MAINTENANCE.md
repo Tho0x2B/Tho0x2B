@@ -5,14 +5,14 @@
 El README muestra un SVG generado por [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats). La URL original del servicio, no una URL de caché de Camo, es:
 
 ```text
-https://streak-stats.demolab.com/?user=Tho0x2B&hide_border=false&background=18181b&border=52525b&stroke=3f3f46&ring=fbbf24&fire=18181b&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=fbbf24&sideLabels=d4d4d8&dates=a1a1aa&border_radius=0&card_width=560&card_height=190&locale=es&timezone=America%2FBogota&disable_animations=true
+https://streak-stats.demolab.com/?user=Tho0x2B&hide_border=false&background=101e35&border=315575&stroke=36536f&ring=73dcd5&fire=101e35&currStreakNum=f4f8ff&sideNums=f4f8ff&currStreakLabel=73dcd5&sideLabels=afc7e6&dates=b3c5dd&border_radius=0&card_width=560&card_height=190&locale=es&timezone=America%2FBogota&disable_animations=true
 ```
 
 - `user`: cuenta consultada.
 - `locale=es`: etiquetas en español.
 - `timezone=America/Bogota`: zona horaria para determinar el día actual.
 - `disable_animations=true`: presenta las cifras inmediatamente; las animaciones decorativas del perfil permanecen en los tres SVG locales.
-- Diseño sin tema predefinido: fondo grafito, acentos ámbar, texto neutro, marco visible y esquinas rectas. `fire` coincide con el fondo para ocultar la llama decorativa.
+- Diseño sin tema predefinido: fondo azul oscuro `101e35`, acentos cian `73dcd5` y texto claro, tomados de los SVG del perfil. Se mantienen el marco visible y las esquinas rectas. `fire` coincide con el fondo para ocultar la llama decorativa.
 - `background`, `border`, `ring`, `fire`, `stroke` y colores de texto: apariencia de la tarjeta. `card_width=560` y `card_height=190` definen sus proporciones.
 - Las cifras se calculan desde los datos de contribuciones disponibles, no se escriben manualmente. No representan todos los commits ni un nivel de experiencia.
 

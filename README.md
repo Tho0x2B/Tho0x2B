@@ -122,7 +122,7 @@ Trazado de rayos sobre la CPU para modelos STL binarios. Implementa intersecció
 ## Actividad en GitHub
 
 <p>
-  <a href="https://github.com/Tho0x2B?tab=overview"><img src="https://streak-stats.demolab.com/?user=Tho0x2B&amp;hide_border=false&amp;background=18181b&amp;border=52525b&amp;stroke=3f3f46&amp;ring=fbbf24&amp;fire=18181b&amp;currStreakNum=fafafa&amp;sideNums=fafafa&amp;currStreakLabel=fbbf24&amp;sideLabels=d4d4d8&amp;dates=a1a1aa&amp;border_radius=0&amp;card_width=560&amp;card_height=190&amp;locale=es&amp;timezone=America%2FBogota&amp;disable_animations=true" alt="Contribuciones totales, racha actual y racha más larga de Tho0x2B" width="560"></a>
+  <a href="https://github.com/Tho0x2B?tab=overview"><img src="https://streak-stats.demolab.com/?user=Tho0x2B&amp;hide_border=false&amp;background=101e35&amp;border=315575&amp;stroke=36536f&amp;ring=73dcd5&amp;fire=101e35&amp;currStreakNum=f4f8ff&amp;sideNums=f4f8ff&amp;currStreakLabel=73dcd5&amp;sideLabels=afc7e6&amp;dates=b3c5dd&amp;border_radius=0&amp;card_width=560&amp;card_height=190&amp;locale=es&amp;timezone=America%2FBogota&amp;disable_animations=true" alt="Contribuciones totales, racha actual y racha más larga de Tho0x2B" width="560"></a>
 </p>
 
 [Ver actividad en GitHub](https://github.com/Tho0x2B?tab=overview)
