@@ -1,48 +1,34 @@
 # Thomas Leal Puerta
 
-🎓 Estudiante de **Ingeniería Electrónica** e **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana**.
+Mi principal interés es el diseño de sistemas digitales, especialmente la descripción de hardware en VHDL.
 
-Me interesa especialmente el **diseño de sistemas digitales** y el desarrollo en **VHDL**. Me gusta explorar cómo la lógica, el hardware y la programación se combinan para construir soluciones y experiencias visuales.
+## Formación
 
-![VHDL](assets/vhdl.svg)
-![FPGA](assets/fpga.svg)
-![C](assets/c.svg)
-![Computación gráfica](assets/graphics.svg)
+Estudiante de Ingeniería Electrónica e Ingeniería de Sistemas en la Pontificia Universidad Javeriana.
 
-## 🔷 Proyectos destacados
+## Tecnologías
 
-### 🧮 Calculadora digital en VHDL
+- **VHDL:** lógica combinacional y secuencial, máquinas de estados y diseño para FPGA.
+- **C:** geometría tridimensional, trazado de rayos y generación de imágenes.
 
-[**Project1_2530_Disdi →**](https://github.com/Tho0x2B/Project1_2530_Disdi)
+## Proyectos destacados
 
-Circuito combinacional que integra **suma, resta y multiplicación**, conversión del resultado a **BCD** y visualización en displays de **siete segmentos**.
+### Diseño digital
 
-**Aspectos clave:** lógica combinacional · unidad aritmética · representación decimal.
+**[Calculadora digital en VHDL](https://github.com/Tho0x2B/Project1_2530_Disdi)**
 
-### 🎮 Videojuego en VHDL
+Circuito combinacional con suma, resta y multiplicación. Incluye conversión a BCD, representación del signo y salida para displays de siete segmentos.
 
-[**Project2_2530_Disdi →**](https://github.com/Tho0x2B/Project2_2530_Disdi)
+**[Videojuego en VHDL](https://github.com/Tho0x2B/Project2_2530_Disdi)**
 
-Diseño que integra generación de video **VGA**, entrada de teclado **PS/2**, sprites, movimiento, disparos y lógica de colisiones.
+Diseño con generación de video VGA de 800 × 600 píxeles y color RGB de 12 bits. Integra entrada de teclado PS/2, sprites, máquinas de estados, movimiento, disparos y detección de colisiones.
 
-**Aspectos clave:** máquinas de estados · temporización de video · integración de módulos digitales.
+### Computación gráfica
 
-### 🧊 Renderizador 3D en C
+**[Renderizador 3D en C](https://github.com/Tho0x2B/3DEngine-ThomasLeal)**
 
-[**3DEngine-ThomasLeal →**](https://github.com/Tho0x2B/3DEngine-ThomasLeal)
+Trazado de rayos sobre la CPU para modelos STL binarios. Implementa intersección rayo-triángulo, iluminación difusa y cámara orbital; genera imágenes PPM sin bibliotecas gráficas externas.
 
-Renderizador por **trazado de rayos sobre la CPU**, con lectura de modelos **STL binarios**, iluminación difusa básica, colores por pieza y cámara orbital. Genera imágenes PPM sin bibliotecas gráficas externas.
-
-[![Demostración del renderizador 3D: modelo compuesto por rostro, cabello, ropa y ojos](https://raw.githubusercontent.com/Tho0x2B/3DEngine-ThomasLeal/main/RenderFinal.gif)](https://github.com/Tho0x2B/3DEngine-ThomasLeal)
-
-**Aspectos clave:** geometría tridimensional · intersección rayo-triángulo · generación de imágenes.
-
-## 🧩 Intereses
-
-- Diseño digital, lógica combinacional y secuencial.
-- Descripción de hardware en VHDL e implementación en FPGA.
-- Computación gráfica y representación visual de modelos 3D.
-
----
-
-📂 Cada proyecto incluye su propia documentación de uso y alcance. Puedes consultar las fuentes, los requisitos y las limitaciones desde los enlaces anteriores.
+<a href="https://github.com/Tho0x2B/3DEngine-ThomasLeal">
+  <img src="https://raw.githubusercontent.com/Tho0x2B/3DEngine-ThomasLeal/main/RenderFinal.gif" alt="Renderizado del modelo 3D con cámara orbital" width="400">
+</a>
