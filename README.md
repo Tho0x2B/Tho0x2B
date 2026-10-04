@@ -1,7 +1,10 @@
 # Thomas Leal Puerta
 
 <p>
-  <img src="assets/header.svg" alt="Diseño digital, VHDL, FPGA y computación gráfica" width="1000">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-static.svg">
+    <img src="assets/header.svg" alt="Diseño digital, VHDL, FPGA y computación gráfica" width="1000">
+  </picture>
 </p>
 
 Mi principal interés es el diseño de sistemas digitales, especialmente la descripción de hardware en VHDL.
@@ -12,11 +15,13 @@ Mi principal interés es el diseño de sistemas digitales, especialmente la desc
   <a href="mailto:tleal.p@outlook.com"><img src="assets/link-email.svg" alt="Correo: tleal.p@outlook.com" height="34"></a>
 </p>
 
-## <img src="assets/formation.svg" alt="" width="24" height="24"> Formación
+## Formación
 
 Estudiante de **Ingeniería Electrónica** e **Ingeniería de Sistemas** en la [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio).
 
-## <img src="assets/technology.svg" alt="" width="24" height="24"> Tecnologías
+## Tecnologías
+
+### Diseño digital y computación gráfica
 
 <p>
   <a href="https://github.com/Tho0x2B/Project1_2530_Disdi/tree/main/Code"><img src="assets/vhdl.svg" alt="VHDL: ver implementación de la calculadora" height="48"></a>
@@ -27,13 +32,50 @@ Estudiante de **Ingeniería Electrónica** e **Ingeniería de Sistemas** en la [
 
 VHDL para lógica combinacional y secuencial, máquinas de estados y diseño para FPGA. C para geometría tridimensional, trazado de rayos y generación de imágenes.
 
-## <img src="assets/projects.svg" alt="" width="24" height="24"> Proyectos destacados
+### Lenguajes
+
+<p>
+  <a href="https://github.com/Samu-Kiss/UNI-25-30-FIS-NullPointerException"><img src="assets/java.svg" alt="Java" height="48"></a>
+  <a href="https://github.com/Tho0x2B/Proyecto-Ondas"><img src="assets/csharp.svg" alt="C#" height="48"></a>
+  <a href="https://github.com/P1p2gamer26/CODEFEST_2026-1"><img src="assets/python.svg" alt="Python" height="48"></a>
+  <a href="https://kotlinlang.org/"><img src="assets/kotlin.svg" alt="Kotlin" height="48"></a>
+  <a href="https://github.com/P1p2gamer26/Hotel-Macondo"><img src="assets/javascript.svg" alt="JavaScript" height="48"></a>
+  <a href="https://github.com/Lunax320/hotel-macondo-frontend"><img src="assets/typescript.svg" alt="TypeScript" height="48"></a>
+  <a href="https://github.com/P1p2gamer26/Hotel-Macondo"><img src="assets/html5.svg" alt="HTML5" height="48"></a>
+  <a href="https://github.com/P1p2gamer26/Hotel-Macondo"><img src="assets/css3.svg" alt="CSS3" height="48"></a>
+  <a href="https://github.com/Samu-Kiss/UNI-25-30-FIS-NullPointerException/tree/main/Pontiland/src/main/resources/SQL"><img src="assets/sql.svg" alt="SQL" height="48"></a>
+  <a href="https://github.com/SDM30/Proyecto1-Solucion-Problemas"><img src="assets/prolog.svg" alt="Prolog" height="48"></a>
+</p>
+
+### Frameworks y motores
+
+<p>
+  <a href="https://github.com/P1p2gamer26/Hotel-Macondo/blob/main/pom.xml"><img src="assets/spring.svg" alt="Spring Boot" height="48"></a>
+  <a href="https://github.com/Lunax320/hotel-macondo-frontend/blob/main/package.json"><img src="assets/angular.svg" alt="Angular" height="48"></a>
+  <a href="https://github.com/Tho0x2B/Simple-Jam-2022-main"><img src="assets/unity.svg" alt="Unity" height="48"></a>
+  <a href="https://developer.android.com/compose"><img src="assets/compose.svg" alt="Android / Compose" height="48"></a>
+  <a href="https://github.com/Samu-Kiss/UNI-25-30-FIS-NullPointerException"><img src="assets/jmonkey.svg" alt="jMonkeyEngine" height="48"></a>
+</p>
+
+### Herramientas, datos y pruebas
+
+<p>
+  <a href="https://github.com/Tho0x2B?tab=repositories"><img src="assets/git.svg" alt="Git" height="48"></a>
+  <a href="https://github.com/Samu-Kiss/UNI-25-30-FIS-NullPointerException/blob/main/Pontiland/pom.xml"><img src="assets/maven.svg" alt="Maven" height="48"></a>
+  <a href="https://github.com/Samu-Kiss/UNI-25-30-FIS-NullPointerException/blob/main/Pontiland/pom.xml"><img src="assets/h2.svg" alt="H2" height="48"></a>
+  <a href="https://github.com/Samu-Kiss/UNI-25-30-FIS-NullPointerException/tree/main/Pontiland/src/test"><img src="assets/junit.svg" alt="JUnit" height="48"></a>
+</p>
+
+## Proyectos destacados
 
 ### Diseño digital
 
 <p>
 <a href="https://github.com/Tho0x2B/Project1_2530_Disdi">
-  <img src="assets/calculator.svg" alt="Calculadora digital en VHDL: esquema ilustrativo de la ruta aritmética" width="850">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/calculator-static.svg">
+    <img src="assets/calculator.svg" alt="Calculadora digital en VHDL: esquema ilustrativo de la ruta aritmética" width="850">
+  </picture>
 </a>
 </p>
 
@@ -46,7 +88,10 @@ Circuito combinacional con suma, resta y multiplicación. Incluye conversión a 
 
 <p>
 <a href="https://github.com/Tho0x2B/Project2_2530_Disdi">
-  <img src="assets/game.svg" alt="Videojuego en VHDL: ilustración de interfaz VGA, no captura de funcionamiento" width="850">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/game-static.svg">
+    <img src="assets/game.svg" alt="Videojuego en VHDL: ilustración de interfaz VGA, no captura de funcionamiento" width="850">
+  </picture>
 </a>
 </p>
 
@@ -74,6 +119,14 @@ Trazado de rayos sobre la CPU para modelos STL binarios. Implementa intersecció
   <a href="https://github.com/Tho0x2B/3DEngine-ThomasLeal/blob/main/README.md"><img src="assets/link-docs.svg" alt="Documentación del renderizador 3D" height="30"></a>
 </p>
 
-## <img src="assets/contact.svg" alt="" width="24" height="24"> Contacto
+## Actividad en GitHub
+
+<p>
+  <a href="https://github.com/Tho0x2B?tab=overview"><img src="https://streak-stats.demolab.com/?user=Tho0x2B&amp;theme=tokyonight&amp;hide_border=true&amp;background=101e35&amp;ring=5bd4d8&amp;fire=5bd4d8&amp;currStreakLabel=5bd4d8&amp;sideLabels=e6edf3&amp;border_radius=12&amp;stroke=315575&amp;locale=es&amp;timezone=America%2FBogota&amp;disable_animations=true" alt="Contribuciones totales, racha actual y racha más larga de Tho0x2B" width="495"></a>
+</p>
+
+[Ver actividad en GitHub](https://github.com/Tho0x2B?tab=overview)
+
+## Contacto
 
 [tleal.p@outlook.com](mailto:tleal.p@outlook.com)
