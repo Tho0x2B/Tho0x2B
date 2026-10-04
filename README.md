@@ -122,7 +122,7 @@ Trazado de rayos sobre la CPU para modelos STL binarios. Implementa intersecció
 ## Actividad en GitHub
 
 <p>
-  <a href="https://github.com/Tho0x2B?tab=overview"><img src="https://streak-stats.demolab.com/?user=Tho0x2B&amp;theme=tokyonight&amp;hide_border=true&amp;background=101e35&amp;ring=5bd4d8&amp;fire=5bd4d8&amp;currStreakLabel=5bd4d8&amp;sideLabels=e6edf3&amp;border_radius=12&amp;stroke=315575&amp;locale=es&amp;timezone=America%2FBogota&amp;disable_animations=true" alt="Contribuciones totales, racha actual y racha más larga de Tho0x2B" width="495"></a>
+  <a href="https://github.com/Tho0x2B?tab=overview"><img src="https://streak-stats.demolab.com/?user=Tho0x2B&amp;hide_border=false&amp;background=18181b&amp;border=52525b&amp;stroke=3f3f46&amp;ring=fbbf24&amp;fire=18181b&amp;currStreakNum=fafafa&amp;sideNums=fafafa&amp;currStreakLabel=fbbf24&amp;sideLabels=d4d4d8&amp;dates=a1a1aa&amp;border_radius=0&amp;card_width=560&amp;card_height=190&amp;locale=es&amp;timezone=America%2FBogota&amp;disable_animations=true" alt="Contribuciones totales, racha actual y racha más larga de Tho0x2B" width="560"></a>
 </p>
 
 [Ver actividad en GitHub](https://github.com/Tho0x2B?tab=overview)
