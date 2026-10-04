@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="32" viewBox="0 0 109 32" role="img" aria-label="FPGA">
+  <title>FPGA</title>
+  <rect width="109" height="32" rx="6" fill="#6741a5"/>
+  <g fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="10" y="8" width="16" height="16" rx="2"/><path d="M14 12h8v8h-8zM14 4v4m8-4v4m-8 16v4m8-4v4M6 12h4m-4 8h4m16-8h4m-4 8h4"/></g>
+  <text x="39" y="21" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">FPGA</text>
+</svg>
